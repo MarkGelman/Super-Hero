@@ -1,0 +1,7 @@
+C:\Users\Mark\Desktop\Itay\ExsInterface_02.08.20\ExsInterface_02.08.20\bin\Debug\ExsInterface_02.08.20.exe.config
+C:\Users\Mark\Desktop\Itay\ExsInterface_02.08.20\ExsInterface_02.08.20\bin\Debug\ExsInterface_02.08.20.exe
+C:\Users\Mark\Desktop\Itay\ExsInterface_02.08.20\ExsInterface_02.08.20\bin\Debug\ExsInterface_02.08.20.pdb
+C:\Users\Mark\Desktop\Itay\ExsInterface_02.08.20\ExsInterface_02.08.20\obj\Debug\ExsInterface_02.08.20.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\Itay\ExsInterface_02.08.20\ExsInterface_02.08.20\obj\Debug\ExsInterface_02.08.20.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Itay\ExsInterface_02.08.20\ExsInterface_02.08.20\obj\Debug\ExsInterface_02.08.20.exe
+C:\Users\Mark\Desktop\Itay\ExsInterface_02.08.20\ExsInterface_02.08.20\obj\Debug\ExsInterface_02.08.20.pdb
